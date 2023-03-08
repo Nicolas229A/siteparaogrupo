@@ -8,3 +8,51 @@
 #navtitle {
   color: #0d6efd;
 }
+
+.textogostosao {
+  font-style: italic;
+  color: white;
+}
+
+.textogostoso {
+  color: white;
+}
+
+.titulomassa {
+  text-align: center;
+}
+
+#preto {
+  font-weight: bold;
+}
+
+#roxo {
+  font-weight: bold;
+  color: blueviolet;
+}
+
+/*#fotinhas {
+  width: 18rem;
+  height: 18rem;
+}
+*/
+
+/*body {
+  background: linear-gradient(-45deg, #2a2f36, #18181b, #374347, #515f60);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+*/
